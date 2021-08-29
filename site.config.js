@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '0cdc7c0a24124a9a94d9c31585320984',
+  rootNotionPageId: 'ecdf6f541f2441d8b25396d286f5057b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'addc3495969447a484ab93030bbd3fcc',
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: 'curetest',
-  domain: 'https://www.notion.so/0cdc7c0a24124a9a94d9c31585320984?v=addc3495969447a484ab93030bbd3fcc',
+  domain: 'https://www.notion.so/Project2-ecdf6f541f2441d8b25396d286f5057b',
   author: 'Reyrey',
 
   // open graph metadata (optional)
